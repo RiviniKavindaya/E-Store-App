@@ -18,3 +18,10 @@ E-store-App is a web application developed using the Laravel framework for build
 ## Installation
 
 1. Clone the repository:
+2. Navigate to the project directory:
+3. Install dependencies using Composer:
+4. Copy the `.env.example` file and rename it to `.env`. Update the database connection settings and other configurations as needed.
+
+
+
+
